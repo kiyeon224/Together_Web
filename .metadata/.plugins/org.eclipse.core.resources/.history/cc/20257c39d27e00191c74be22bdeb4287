@@ -1,0 +1,26 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Just+Another+Hand&display=swap'); 
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	height: 270px;
+	background-color: #00CCA2;
+	text-align: center;
+	line-height: 270px;
+}
+
+section {
+	min-height: 500px;
+}
+
+footer {
+	height: 200px;
+	background-color: #00CCA2;
+	color: #fff;
+	text-align: center;
+	line-height: 200px;
+}

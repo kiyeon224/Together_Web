@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	height: 150px;
+	background-color: #00CCA2;
+	color: #fff;
+	text-align: center;
+	
+}
+
+nav {
+}
+
+sectoin {
+	display: inline-block;
+}
+
+footer {
+	background-color: #00CCA2;
+	color: #fff;
+}

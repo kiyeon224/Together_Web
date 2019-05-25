@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    
+<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/nav.css">
+
+<!-- <div class="dropdown" style="float:right;">
+  <button class="dropbtn">Right</button>
+  <div class="dropdown-content">
+  <a href="#">Link 1</a>
+  <a href="#">Link 2</a>
+  <a href="#">Link 3</a>
+  </div>
+</div> -->
+
+<ul>
+	<li><a href="#"></a>menu1</li>
+	<li>menu2</li>
+	<li>menu3</li>
+	<li>menu4</li>
+</ul>

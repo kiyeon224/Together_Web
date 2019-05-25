@@ -1,0 +1,29 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:100&display=swap&subset=korean');
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #fff;
+}
+
+li {
+	padding: 20px;
+	float: left;
+	cursor: pointer;
+	color: #000;
+	font-size: 15pt;
+}
+
+li a {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: #000;
+}
+
+li:hover {
+	background-color: #ddd;
+}

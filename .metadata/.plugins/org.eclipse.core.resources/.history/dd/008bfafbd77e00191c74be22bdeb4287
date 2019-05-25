@@ -1,0 +1,22 @@
+package controller;
+
+import javax.servlet.http.HttpServlet;
+
+public class Member extends HttpServlet {
+
+	@Override
+	private void doProcess() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	@Override
+	private void doGet() {
+		
+	}
+
+	@Override
+	private void doPost() {
+
+	}
+}

@@ -1,0 +1,13 @@
+package controller;
+
+public class Member {
+	@Override
+	private void doGet() {
+		
+	}
+
+	@Override
+	private void doPost() {
+
+	}
+}

@@ -1,0 +1,15 @@
+package controller;
+
+import javax.servlet.http.HttpServlet;
+
+public class Member extends HttpServlet {
+	@Override
+	private void doGet() {
+		
+	}
+
+	@Override
+	private void doPost() {
+
+	}
+}

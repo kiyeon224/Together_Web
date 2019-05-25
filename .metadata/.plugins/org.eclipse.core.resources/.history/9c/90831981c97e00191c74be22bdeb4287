@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	height: 200px;
+	background-color: #00CCA2;
+	color: #fff;
+	text-align: center;
+	line-height: 200px;
+	font-family: Reklame Script Regular DEMO;
+	font-size: 50pt;
+}
+
+nav {
+}
+
+sectoin {
+	display: inline-block;
+}
+
+footer {
+	height: 200px;
+	background-color: #00CCA2;
+	color: #fff;
+	text-align: center;
+	line-height: 200px;
+}

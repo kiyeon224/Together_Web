@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	height: 150px;
+	background-color: #00CCA2;
+	color: #fff;
+}
+
+nav {
+	background-color: #333;
+}
+
+sectoin {
+	display: inline-block;
+	background-color: #999;
+}
+
+footer {
+	background-color: #00CCA2;
+}

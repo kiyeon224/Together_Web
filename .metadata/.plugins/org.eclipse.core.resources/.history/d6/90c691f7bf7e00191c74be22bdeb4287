@@ -1,0 +1,8 @@
+package controller;
+
+import java.io.File;
+
+public class DataIO {
+	File file = new File("test.md");
+	FileReader fileReader = new FileReader(file);
+}

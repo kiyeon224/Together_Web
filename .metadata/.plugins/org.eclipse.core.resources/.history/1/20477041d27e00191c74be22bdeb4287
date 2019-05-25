@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+a {
+	font-family: 'Just Another Hand', cursive;
+	font-size: 60pt;
+	text-decoration: none;
+	color: #fff;
+}
