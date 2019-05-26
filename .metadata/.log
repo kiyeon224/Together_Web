@@ -5486,3 +5486,9 @@ Java Model Exception: Java Model Status [Build path contains duplicate entry: 'o
 !MESSAGE Could not publish server configuration for Tomcat v9.0 Server at localhost.
 !SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2019-05-26 17:30:37.652
 !MESSAGE Multiple Contexts have a path of "/Together".
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-26 18:08:35.499
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-26 18:27:20.577
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'

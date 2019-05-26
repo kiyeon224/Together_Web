@@ -4,7 +4,7 @@
 <link rel="stylesheet" type="text/css" href="css/nav.css">
 
 <ul>
-	<li><a href="#" >menu1</a></li>
+	<li><a href="sign-up.jsp">회원가입</a></li>
 	<li><a href="#">menu2</a></li>
 	<li><a href="#">menu3</a></li>
 	<li><a href="#">menu4</a></li>
