@@ -1,7 +1,0 @@
-package controller;
-
-public class Member {
-	private void doGet() {
-
-	}
-}
